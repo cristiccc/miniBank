@@ -1,3 +1,4 @@
+#!usr/bin/env
 from tkinter import *
 import tkinter as tk
 import login
