@@ -1,4 +1,3 @@
-#!usr/env/bin
 import os
 import random
 import datetime

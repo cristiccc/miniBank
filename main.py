@@ -1,4 +1,3 @@
-#!/usr/bin/env
 import os
 import account
 import login
@@ -10,4 +9,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-

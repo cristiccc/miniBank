@@ -1,4 +1,3 @@
-#!usr/bin/env
 from tkinter import *
 import tkinter as tk
 import login
@@ -19,7 +18,7 @@ def window():
     loginButton.place(relx=0.5, rely=0.6, anchor=CENTER)
     registerButton.place(relx=0.5, rely=0.7, anchor=CENTER)
 
-    
+
 
     #keep the window opened
     window.mainloop()

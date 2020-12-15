@@ -1,4 +1,3 @@
-#!usr/bin/env
 import window
 
 def main():
